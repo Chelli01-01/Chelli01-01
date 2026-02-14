@@ -1,12 +1,25 @@
-<h1 align="center">🌸 Chelli 🌸</h1>
+<h2 align="center">
+  🌸 Chelli 🌸
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pink-vibes-ff69b4?style=for-the-badge">
+  <em>beginner developer · learning GitHub</em>
 </p>
 
-💗 Beginner developer  
-🎀 Learning GitHub  
+<p align="center">
+  <img src="https://img.shields.io/badge/soft%20pink-ffc0cb?style=flat-square">
+  <img src="https://img.shields.io/badge/coding%20journey-%E2%9C%A8-ffb6c1?style=flat-square">
+</p>
 
+<br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Chelli01-01&show_icons=true&theme=rose_pine)
+### 💗 about me
+- 🌱 learning GitHub & web basics  
+- 🎀 building small projects  
+- ✨ progress over perfection  
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chelli01-01&show_icons=true&hide_border=true&theme=rose_pine">
+</p>
