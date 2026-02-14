@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/soft%20pink-ffc0cb?style=flat-square">
+  
   <img src="https://img.shields.io/badge/coding%20journey-%E2%9C%A8-ffb6c1?style=flat-square">
 </p>
 
