@@ -20,6 +20,3 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chelli01-01&show_icons=true&hide_border=true&theme=rose_pine">
-</p>
