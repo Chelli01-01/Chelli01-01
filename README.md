@@ -16,7 +16,7 @@
 ### 💗 about me
 - 🌱 learning GitHub & web basics  
 - 🎀 building small projects  
-- ✨ progress over perfection  
+- ✨ progress  
 
 <br/>
 
